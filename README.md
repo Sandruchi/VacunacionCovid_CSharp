@@ -22,4 +22,4 @@ Aplicar operaciones de teoría de conjuntos para procesar datos ficticios sobre 
 Este código puede ejecutarse en [Online C# Compiler](https://www.onlinegdb.com/online_csharp_compiler) o en Visual Studio.
 
 **Autor:** Sandra Rodríguez Rodríguez  
-**Universidad:** Universidad Técnica Estatal de Quevedo  
+**Universidad:** Universidad Estatal Amazónnica  
